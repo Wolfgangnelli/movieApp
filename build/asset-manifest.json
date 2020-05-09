@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Wolfgangnelli/movieApp.git/static/css/main.20c0086b.chunk.css",
-    "main.js": "/Wolfgangnelli/movieApp.git/static/js/main.ca8e5e27.chunk.js",
-    "main.js.map": "/Wolfgangnelli/movieApp.git/static/js/main.ca8e5e27.chunk.js.map",
-    "runtime-main.js": "/Wolfgangnelli/movieApp.git/static/js/runtime-main.8ad1ddff.js",
-    "runtime-main.js.map": "/Wolfgangnelli/movieApp.git/static/js/runtime-main.8ad1ddff.js.map",
-    "static/js/2.22d6fc82.chunk.js": "/Wolfgangnelli/movieApp.git/static/js/2.22d6fc82.chunk.js",
-    "static/js/2.22d6fc82.chunk.js.map": "/Wolfgangnelli/movieApp.git/static/js/2.22d6fc82.chunk.js.map",
-    "index.html": "/Wolfgangnelli/movieApp.git/index.html",
-    "precache-manifest.111dc89e22e78f54c1a348b78379f2fc.js": "/Wolfgangnelli/movieApp.git/precache-manifest.111dc89e22e78f54c1a348b78379f2fc.js",
-    "service-worker.js": "/Wolfgangnelli/movieApp.git/service-worker.js",
-    "static/css/main.20c0086b.chunk.css.map": "/Wolfgangnelli/movieApp.git/static/css/main.20c0086b.chunk.css.map",
-    "static/js/2.22d6fc82.chunk.js.LICENSE.txt": "/Wolfgangnelli/movieApp.git/static/js/2.22d6fc82.chunk.js.LICENSE.txt"
+    "main.css": "/movieApp/static/css/main.20c0086b.chunk.css",
+    "main.js": "/movieApp/static/js/main.16d2de07.chunk.js",
+    "main.js.map": "/movieApp/static/js/main.16d2de07.chunk.js.map",
+    "runtime-main.js": "/movieApp/static/js/runtime-main.06a8e946.js",
+    "runtime-main.js.map": "/movieApp/static/js/runtime-main.06a8e946.js.map",
+    "static/js/2.22d6fc82.chunk.js": "/movieApp/static/js/2.22d6fc82.chunk.js",
+    "static/js/2.22d6fc82.chunk.js.map": "/movieApp/static/js/2.22d6fc82.chunk.js.map",
+    "index.html": "/movieApp/index.html",
+    "precache-manifest.2e5eae5b9a301e74683437130850f896.js": "/movieApp/precache-manifest.2e5eae5b9a301e74683437130850f896.js",
+    "service-worker.js": "/movieApp/service-worker.js",
+    "static/css/main.20c0086b.chunk.css.map": "/movieApp/static/css/main.20c0086b.chunk.css.map",
+    "static/js/2.22d6fc82.chunk.js.LICENSE.txt": "/movieApp/static/js/2.22d6fc82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ad1ddff.js",
+    "static/js/runtime-main.06a8e946.js",
     "static/js/2.22d6fc82.chunk.js",
     "static/css/main.20c0086b.chunk.css",
-    "static/js/main.ca8e5e27.chunk.js"
+    "static/js/main.16d2de07.chunk.js"
   ]
 }
