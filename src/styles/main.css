@@ -1,0 +1,61 @@
+/* Importo il font da Google fonts */
+@import url("https://fonts.googleapis.com/css?family=Delius+Swash+Caps&display=swap");
+
+/* 
+   Utilizzo il normalize di tailwind per
+   avere i default uguali su tutti i browser
+*/
+@import "tailwindcss/base";
+
+/*
+   Importo i componenti base (di default)
+   di tailwind
+*/
+@import "tailwindcss/components";
+
+/*
+   Importo le utilities di tailwind
+   Mi servono per gli hover, i focus,
+   le media query etc...
+*/
+@import "tailwindcss/utilities";
+
+html {
+  background-color: #2d2d2d;
+}
+
+.App {
+  text-align: center;
+  background-color: #2d2d2d;
+  color: white;
+}
+
+.bg-cards {
+  background-color: #212121;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.bg-input-search {
+  background-color: #2d2d2d;
+}
+
+input[type="text"] {
+  width: 130px;
+  border-radius: 4px;
+  transition: width 0.4s ease-in-out;
+}
+input[type="text"]:focus {
+  width: 100%;
+}
+.dioSanto {
+  margin-top: 180px;
+}
+
+.bg-my {
+  background-color: #212121;
+}
+
+/*#282c34*/
